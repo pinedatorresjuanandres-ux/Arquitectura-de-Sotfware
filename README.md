@@ -23,12 +23,12 @@ Usuarios Principales
 13.  Gestionar la seguridad y funcionamiento de la plataforma.
 ________________________________________
 Funcionalidades Principales
-●	Registro e inicio de sesión de usuarios.
-●	Publicación de productos disponibles.
-●	Comunicación entre agricultores y empresas.
-●	Seguimiento y trazabilidad de cultivos.
-●	Consulta de información agrícola.
-●	Panel administrativo para control del sistema.
+1. Registro e inicio de sesión de usuarios.
+2. Publicación de productos disponibles.
+3. Comunicación entre agricultores y empresas.
+4. Seguimiento y trazabilidad de cultivos.
+5. Consulta de información agrícola.
+6. Panel administrativo para control del sistema.
 ________________________________________
 Decisiones Iniciales
 Metodología de Desarrollo
@@ -40,16 +40,16 @@ Arquitectura Inicial
 Elegí: Arquitectura MVC (Modelo - Vista - Controlador)
 ¿Por qué?
 Se eligió la arquitectura MVC porque permite organizar mejor el proyecto separando:
-●	La lógica del sistema.
-●	La interfaz visual.
-●	El manejo de datos.
+1. La lógica del sistema.
+2. La interfaz visual.
+3. El manejo de datos.
 Esto facilita el mantenimiento, la escalabilidad y el trabajo colaborativo, además de ser una arquitectura muy utilizada en aplicaciones web modernas.
 ________________________________________
 Tecnologías
 Frontend
-●	HTML
-●	CSS
-●	JavaScript
-Backend
-●	Python
-●	Flask
+1. HTML
+2. CSS
+3. JavaScript
+4. Backend
+5. Python
+6. Flask
