@@ -8,19 +8,19 @@ Actualmente, muchos agricultores no cuentan con una plataforma donde puedan publ
 La aplicación permitirá que los campesinos publiquen información sobre sus productos agrícolas, mientras que las empresas y comerciantes podrán contactarlos y agendar citas o reuniones directamente desde la plataforma. De esta manera, se busca facilitar la conexión entre vendedores y compradores sin intervenir en la gestión interna de los cultivos o negocios de cada productor.
 ________________________________________
 Usuarios Principales
-●	Agricultores y campesinos
-○	Gestionar sus cultivos.
-○	Publicar productos disponibles.
-○	Comunicarse con empresas compradoras.
-○	Llevar seguimiento de la producción agrícola.
-●	Empresas compradoras
-○	Buscar productos agrícolas disponibles.
-○	Contactar directamente con productores.
-○	Gestionar pedidos y abastecimiento.
-●	Administradores del sistema
-○	Controlar usuarios y publicaciones.
-○	Supervisar la información del sistema.
-○	Gestionar la seguridad y funcionamiento de la plataforma.
+1.	Agricultores y campesinos
+2.	Gestionar sus cultivos.
+3.	Publicar productos disponibles.
+4.  Comunicarse con empresas compradoras.
+5.  Llevar seguimiento de la producción agrícola.
+6.  Empresas compradoras
+7.  Buscar productos agrícolas disponibles.
+8.  Contactar directamente con productores.
+9.  Gestionar pedidos y abastecimiento.
+10. Administradores del sistema
+11. Controlar usuarios y publicaciones.
+12. Supervisar la información del sistema.
+13.  Gestionar la seguridad y funcionamiento de la plataforma.
 ________________________________________
 Funcionalidades Principales
 ●	Registro e inicio de sesión de usuarios.
